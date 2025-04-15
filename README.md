@@ -46,17 +46,6 @@ This is a simple Student CRUD (Create, Read, Update, Delete) API built with Lara
     php artisan migrate
     ```
 
-7. Generate an application key:
-    ```bash
-    php artisan key:generate
-    ```
-
-8. Optionally, if you are using Sanctum for API authentication, run the Sanctum migrations:
-    ```bash
-    php artisan sanctum:install
-    php artisan migrate
-    ```
-
 ## API Endpoints
 
 ### 1. **list a Student**
