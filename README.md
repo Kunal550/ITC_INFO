@@ -13,7 +13,7 @@ This is a simple Student CRUD (Create, Read, Update, Delete) API built with Lara
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/laravel-student-crud-api.git
+    git clone https://github.com/Kunal550/ITC_INFO.git
     ```
 
 2. Navigate to the project directory:
